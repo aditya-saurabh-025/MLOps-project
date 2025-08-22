@@ -1,0 +1,12 @@
+/config.local
+/tmp
+/cache
+/plots
+/data/raw
+/data/processed
+/data/interim
+/models
+/outputs
+/logs
+/venv  
+/data
